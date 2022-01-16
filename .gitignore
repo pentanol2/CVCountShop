@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/models/cd_deploy.prototxt
+/models/EasyChair-Preprint-6816.pdf
+/models/MobileNetSSD_deploy.caffemodel
+/models/MobileNetSSD_deploy.prototxt
+/models/res10_300x300_ssd_iter_140000.caffemodel
+/MobileNetSSD_deploy.caffemodel
+/MobileNetSSD_deploy.prototxt
+/videos/people_india.mp4
+/videos/seoul_people_fast.mp4
